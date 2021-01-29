@@ -1,0 +1,6 @@
+-- https://www.hackerrank.com/challenges/weather-observation-station-18/problem
+-- Weather Observation Station 18
+
+-- we can ingore abs() if we do max(LAT_N) - min(LAT_N) 
+select round(abs(min(LAT_N) - max(LAT_N) ) + abs(min(LONG_W) - max(LONG_W)), 4) 
+from station 
