@@ -1,6 +1,22 @@
-# HakerRank solutions
-
+<center>
+    <a href="https://www.hackerrank.com/YogendraRevanna">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</center>
+       
 This repo contains solutions to the practice and challenges of [HackerRank](https://www.hackerrank.com/about-us) platform. Major programming languages I am familiar with are Python, PHP, and JavaScript. So wherever possible I will be adding snippets in all 3 languages. Below is the list of topics covered so far and their progress.
+<br/>
+<br/>
+
+# Tutorials
+
+- [Learn to code in 30 days]
+- [10 Days of Javascript](tutorials/10-days-of-javascript)
+
+<br/>
+<br/>
+
+# Practice
 
 ## Python (8%)
 
@@ -22,6 +38,8 @@ This repo contains solutions to the practice and challenges of [HackerRank](http
 - [Numpy]
 - [Debugging]
 
+<br/>
+
 ## SQL (78%)
 
 - [Basic Select](practice/sql/01-basic-select)
@@ -30,6 +48,8 @@ This repo contains solutions to the practice and challenges of [HackerRank](http
 - [Basic Join]
 - [Advanced Join]
 - [Alternative Queries]
+
+<br/>
 
 ## Regex (53%)
 

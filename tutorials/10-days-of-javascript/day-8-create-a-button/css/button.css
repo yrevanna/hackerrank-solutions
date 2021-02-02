@@ -1,0 +1,10 @@
+#btn {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  border: 1px solid #cccccc;
+  background: #e5e5e5;
+  width: 96px;
+  height: 48px;
+  font-size: 24px;
+}

@@ -1,0 +1,15 @@
+#btns {
+  width: 75%;
+  margin: 20px auto;
+}
+.btn {
+  width: 30%;
+  height: 48px;
+  margin-right: 1%;
+  font-size: 24px;
+  border: 1px solid #cccccc;
+  float: left;
+  text-align: center;
+  line-height: 48px;
+  cursor: pointer;
+}
